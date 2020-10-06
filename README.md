@@ -1,6 +1,6 @@
-## Lectura de metadatos en sitio web con visual Studio Code 2019.
+## Web tool to analyze metadata in images
 
-#### En Visual studio code 2019, se abre Herramientas/administrador de paquete Nuget/administrar paquetes NuGet para la solución, donde seinstala Nexiftool v0.9.0.
+##### In Visual studio code 2019, Open Tools / Nuget package manager / Manage NuGet packages for solution, where Nexiftool v0.9.0 is installed.
 
 
  
